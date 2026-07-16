@@ -1,0 +1,21 @@
+export const business = {
+  name: "1K Mobile Detailing LLC",
+  tagline: "Clean. Protect. Elevate.",
+  category: "Luxury mobile auto detailing",
+  markets: "Maryland and Washington, DC",
+  serviceRadius: "Within 25 miles of Bowie, Maryland 20716",
+  baseLocation: "Hardwood Dr, Lanham, MD 20706",
+  phoneDisplay: "227-218-9809",
+  phoneLink: "tel:+12272189809",
+  textLink: "sms:+12272189809",
+  email: "1k@1kmobiledetailing.com",
+  emailLink: "mailto:1k@1kmobiledetailing.com",
+  instagramHandle: "@1kmobiledetailing_",
+  instagramUrl: "https://www.instagram.com/1kmobiledetailing_/",
+  bookingUrl: "https://1k-mobile-detailing-llc.square.site",
+  hours: "Monday through Sunday, 8:00 AM to 6:00 PM",
+  positioning: "Interior and exterior mobile detailing with recurring memberships",
+  trustStatement: "5-Star Rated",
+  showHiring: true,
+  siteUrl: "https://1kmobiledetailing.com" // Placeholder for canonical logic
+};
