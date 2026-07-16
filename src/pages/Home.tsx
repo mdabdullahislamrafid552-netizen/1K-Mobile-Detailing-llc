@@ -4,7 +4,6 @@ import { Check, MapPin, Star } from 'lucide-react';
 import { business } from '../data/business';
 import { assets } from '../data/assets';
 import { services } from '../data/services';
-import { memberships } from '../data/memberships';
 import { Button } from '../components/ui/Button';
 import { TrustStrip } from '../components/ui/TrustStrip';
 import { HiringStrip } from '../components/ui/HiringStrip';
