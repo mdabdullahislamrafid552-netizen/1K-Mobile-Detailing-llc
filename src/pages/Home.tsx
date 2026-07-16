@@ -12,7 +12,7 @@ import { Gallery } from '../components/ui/Gallery';
 
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },
-  visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: "easeOut" } }
+  visible: { opacity: 1, y: 0, transition: { duration: 0.6 } }
 };
 
 const stagger = {
@@ -30,7 +30,7 @@ export function Home() {
           <motion.img 
             initial={{ scale: 1.05 }}
             animate={{ scale: 1 }}
-            transition={{ duration: 1.5, ease: "easeOut" }}
+            transition={{ duration: 1.5 }}
             src={assets.hero} 
             alt="Mobile detailing setup" 
             className="w-full h-full object-cover object-right md:object-center" 
